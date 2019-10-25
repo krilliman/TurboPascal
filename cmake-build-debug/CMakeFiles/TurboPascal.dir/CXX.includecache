@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+iostream
+-
+string
+-
+list
+-
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/bparser.h
+parser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/parser.h
+lexer.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/lexer.h
+tpparser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/tpparser.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+string
+-
+algorithm
+-
+exception
+-
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/hparser.cpp
+string
+-
+list
+-
+map
+-
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+hparser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/hparser.h
+memory
+-
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/hparser.h
+string
+-
+exception
+-
+common.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+lexer.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/lexer.h
+symbol_table.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/symbol_table.h
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+parser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/parser.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.cpp
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+string
+-
+sstream
+-
+map
+-
+assert.h
+-
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/lexer.cpp
+iostream
+-
+cassert
+-
+common.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+lexer.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/lexer.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/lexer.h
+istream
+-
+common.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/location.hh
+algorithm
+-
+iostream
+-
+string
+-
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+hparser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/hparser.h
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+print_visitor.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/print_visitor.h
+sa_visitor.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/sa_visitor.h
+bparser.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/bparser.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/parser.h
+iostream
+-
+string
+-
+symbol_table.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/symbol_table.h
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/print_visitor.h
+iostream
+-
+cassert
+-
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/sa_visitor.cpp
+sa_visitor.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/sa_visitor.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/sa_visitor.h
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+stack
+-
+symbol_table.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/symbol_table.h
+string
+-
+error.h
+-
+vector
+-
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/symbol_table.h
+string
+-
+sstream
+-
+map
+-
+language.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/language.h
+common.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/tpparser.h
+string
+-
+common.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/common.h
+ast.h
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/ast.h
+cassert
+-
+cstdlib
+-
+iostream
+-
+stdexcept
+-
+string
+-
+vector
+-
+location.hh
+/mnt/c/Users/Kristmann Ingi/Documents/Uni/Compilers/GitHub/TurboPascal/location.hh
+typeinfo
+-
+cassert
+-
+
